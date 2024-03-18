@@ -1,6 +1,4 @@
-# CODSOFT-TASK-5
-
-**CREDIT CARD FRAUD DETECTION**
+# CREDIT CARD FRAUD DETECTION
 
 Build a machine learning model to identify fraudulent credit card
 transactions.
